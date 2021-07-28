@@ -1,0 +1,15 @@
+##Making frame
+
+# Print current frame
+frame
+
+# Print list of frames
+frame dir
+
+# Copy current frame
+
+frame copy current new
+
+# Change frame
+
+frame change new
